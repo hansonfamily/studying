@@ -1,0 +1,6 @@
+a1: (week May 6)
+    * create a new html file 'w3c-basic.html' in your own folder;
+    * learning from https://www.w3schools.com/html/html_basic.asp
+    * test it using 'Live Server'
+    * commit the change;
+    * push to github

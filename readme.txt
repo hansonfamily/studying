@@ -1,3 +1,1 @@
-this is for learning javascript.
-
-https://javascript.info/
+https://www.w3schools.com/

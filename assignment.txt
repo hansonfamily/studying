@@ -4,3 +4,6 @@ a1: (week May 6)
     * test it using 'Live Server'
     * commit the change;
     * push to github
+a2: (week May 6)
+    * learning from https://www.w3schools.com/html/html_elements.asp
+    
